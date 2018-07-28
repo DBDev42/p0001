@@ -2,8 +2,13 @@ extends Area2D
 
 signal died
 
+var entered = false
+
 func _ready():
-	pass
+	set_process(true)
+
+func _process(delta):
+	self.set_position(self.get_position() + Vector2(0, 5))
 
 func init(initial_pos):
 	self.set_position(initial_pos)

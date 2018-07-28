@@ -24,9 +24,6 @@ func _ready():
 func _process(delta):
 	var pos = self.get_position()
 	
-	slow_down(delta)
-	if Input.is_action_pressed("ui_up"):
-		speed_up(delta)
 	if Input.is_action_pressed("ui_right"):
 		turn(delta)
 		direction.x = 1
@@ -39,12 +36,6 @@ func _process(delta):
 	
 	if Input.is_action_pressed("ui_accept"):
 		shoot()
-
-func slow_down(delta):
-	speed = Vector2(max(speed.x - env_resistance.x*delta, 0), max(speed.y - env_resistance.y*delta, 0))
-
-func speed_up(delta):
-	speed = Vector2(speed.x, min(max_speed.y, speed.y+acceleration.y*delta))
 
 func turn(delta):
 	speed = Vector2(min(max_speed.x, speed.x+acceleration.x*delta), speed.y)

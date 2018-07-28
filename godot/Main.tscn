@@ -1,0 +1,105 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://scripts/p0001.gd" type="Script" id=1]
+[ext_resource path="res://art/prototype_background.png" type="Texture" id=2]
+[ext_resource path="res://Ship.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Font.tres" type="DynamicFont" id=4]
+
+[node name="Main" type="Node" index="0"]
+
+script = ExtResource( 1 )
+
+[node name="Background" type="ParallaxBackground" parent="." index="0"]
+
+layer = -1
+offset = Vector2( 0, 0 )
+rotation = 0.0
+scale = Vector2( 1, 1 )
+transform = Transform2D( 1, 0, 0, 1, 0, 0 )
+scroll_offset = Vector2( 0, 0 )
+scroll_base_offset = Vector2( 0, 0 )
+scroll_base_scale = Vector2( 1, 1 )
+scroll_limit_begin = Vector2( 0, 0 )
+scroll_limit_end = Vector2( 0, 0 )
+scroll_ignore_camera_zoom = true
+
+[node name="Cells" type="ParallaxLayer" parent="Background" index="0"]
+
+motion_scale = Vector2( 1, 1 )
+motion_offset = Vector2( 0, 0 )
+motion_mirroring = Vector2( 0, 1980 )
+_sections_unfolded = [ "Motion" ]
+
+[node name="CellBackground" type="Sprite" parent="Background/Cells" index="0"]
+
+position = Vector2( -8.40955, 0 )
+texture = ExtResource( 2 )
+centered = false
+region_enabled = true
+region_rect = Rect2( 0, 0, 1080, 1980 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+[node name="Ship" parent="." index="1" instance=ExtResource( 3 )]
+
+[node name="GUI" type="Control" parent="Ship" index="0"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 224.0
+margin_top = -1617.0
+margin_right = 489.0
+margin_bottom = -1577.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 0
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+
+[node name="Score" type="Label" parent="Ship/GUI" index="0"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = -64.0
+margin_right = 268.0
+margin_bottom = 49.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 2
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 4
+custom_fonts/font = ExtResource( 4 )
+custom_colors/font_color = Color( 0.342773, 0.636353, 0.8125, 1 )
+custom_colors/font_color_shadow = Color( 0.0369873, 0.260452, 0.394531, 1 )
+custom_constants/shadow_offset_x = 5
+custom_constants/shadow_offset_y = 5
+text = "Puntuacion: 00"
+percent_visible = 1.0
+lines_skipped = 0
+max_lines_visible = -1
+_sections_unfolded = [ "custom_colors", "custom_constants", "custom_fonts" ]
+
+[node name="EnemySpawnZone" type="Node2D" parent="Ship" index="6"]
+
+position = Vector2( 0, -1920 )
+scale = Vector2( 15, 1 )
+
+[node name="EnemyTimer" type="Timer" parent="." index="2"]
+
+process_mode = 1
+wait_time = 1.0
+one_shot = false
+autostart = true
+
+[node name="Enemies" type="Node" parent="." index="3"]
+
+[node name="SignalsManager" type="Node" parent="." index="4"]
+
+[connection signal="timeout" from="EnemyTimer" to="." method="_on_EnemyTimer_timeout"]
+
+

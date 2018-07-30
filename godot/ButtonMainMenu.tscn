@@ -1,0 +1,110 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://art/button_background.png" type="Texture" id=1]
+[ext_resource path="res://art/play_button.png" type="Texture" id=2]
+[ext_resource path="res://art/play_button_pressed.png" type="Texture" id=3]
+[ext_resource path="res://fonts/mainmenu_bold_font.tres" type="DynamicFont" id=4]
+
+[node name="ButtonMainMenu" type="Control"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 351.0
+margin_bottom = 321.0
+rect_min_size = Vector2( 351, 321 )
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 0
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+_sections_unfolded = [ "Anchor", "Grow Direction", "Margin", "Rect" ]
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." index="0"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 40.0
+margin_bottom = 40.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 1
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+alignment = 0
+
+[node name="Background" type="TextureRect" parent="HBoxContainer" index="0"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_right = 351.0
+margin_bottom = 321.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 1
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+texture = ExtResource( 1 )
+stretch_mode = 0
+
+[node name="Button" type="TextureButton" parent="HBoxContainer/Background" index="0"]
+
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -96.0
+margin_top = -96.0
+margin_right = 96.0
+margin_bottom = 96.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+focus_mode = 2
+mouse_filter = 0
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 1
+toggle_mode = false
+enabled_focus_mode = 2
+shortcut = null
+group = null
+texture_normal = ExtResource( 2 )
+texture_pressed = ExtResource( 3 )
+_sections_unfolded = [ "Textures" ]
+
+[node name="Label" type="Label" parent="HBoxContainer" index="1"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+margin_left = 355.0
+margin_top = 100.0
+margin_right = 940.0
+margin_bottom = 220.0
+rect_pivot_offset = Vector2( 0, 0 )
+rect_clip_content = false
+mouse_filter = 2
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 4
+custom_fonts/font = ExtResource( 4 )
+custom_colors/font_color = Color( 0.505882, 0.505882, 0.505882, 1 )
+custom_colors/font_color_shadow = Color( 0.2, 0.2, 0.2, 1 )
+custom_constants/shadow_offset_x = 0
+custom_constants/shadow_offset_y = 9
+text = "New Game"
+percent_visible = 1.0
+lines_skipped = 0
+max_lines_visible = -1
+_sections_unfolded = [ "Material", "Visibility", "custom_colors", "custom_constants", "custom_fonts", "custom_styles" ]
+
+

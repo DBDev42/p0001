@@ -5,6 +5,8 @@ onready var screen_size = get_viewport().size
 onready var score = 0
 
 func _ready():
+	TranslationServer.set_locale("es")
+	$GUI/Score.set_text(tr("LEVEL_GUI_SCORE_LABEL") + ": 00")
 	$Ship.set_position(Vector2(screen_size.x/2, screen_size.y*18/20))
 	randomize()
 	set_process(true)
@@ -23,4 +25,4 @@ func _on_EnemyTimer_timeout():
 
 func _on_Enemy_died():
 	score += 10
-	$GUI/Score.set_text("Puntuacion: " + str(score))
+	$GUI/Score.set_text(tr("LEVEL_GUI_SCORE_LABEL") + ": " + str(score))

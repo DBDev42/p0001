@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="art.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5486">
+      <stop
+         style="stop-color:#00f6ff;stop-opacity:1"
+         offset="0"
+         id="stop5482" />
+      <stop
+         style="stop-color:#47b6ba;stop-opacity:1"
+         offset="1"
+         id="stop5484" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5388"
+       inkscape:collect="always">
+      <stop
+         id="stop5384"
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1" />
+      <stop
+         id="stop5386"
+         offset="1"
+         style="stop-color:#818181;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4938">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4934" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4936" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4922">
+      <stop
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0"
+         id="stop4918" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="1"
+         id="stop4920" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4860-3">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop4856" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:0;"
+         offset="1"
+         id="stop4858" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Button_top-7-5">
+      <stop
+         style="stop-color:#818181;stop-opacity:1;"
+         offset="0"
+         id="stop4811" />
+      <stop
+         style="stop-color:#818181;stop-opacity:0;"
+         offset="1"
+         id="stop4813" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5316"
+       x="-0.12494642"
+       width="1.2498928"
+       y="-0.11543031"
+       height="1.2308606">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.89534086"
+         id="feGaussianBlur5318" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4860-3"
+       id="linearGradient4862"
+       x1="-205.41002"
+       y1="20.352665"
+       x2="-188.66998"
+       y2="20.352665"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(17.149469,-7.4501791)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Button_top-7-5"
+       id="linearGradient4872"
+       gradientUnits="userSpaceOnUse"
+       x1="-87.048508"
+       y1="42.999985"
+       x2="-87.048508"
+       y2="16.541653"
+       gradientTransform="translate(-27.129897,-18.414594)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient4924"
+       x1="-23.259035"
+       y1="33.443371"
+       x2="27.540964"
+       y2="33.443371"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,-35.560481,61.005239)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient4940"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,-7.1248219,87.302643)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5374"
+       x="-0.036"
+       width="1.072"
+       y="-0.036"
+       height="1.072">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.63499998"
+         id="feGaussianBlur5376" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5382"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8296171,0,0,1.7334756,-36.479663,82.585711)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5392"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4983788,0,0,1.419643,-90.817116,84.505384)"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient5400"
+       gradientUnits="userSpaceOnUse"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704"
+       gradientTransform="matrix(0.64908566,0,0,0.65066838,51.238157,89.209103)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient5420"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,-7.1248219,151.31469)"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient5422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,-35.560481,125.01729)"
+       x1="-23.259035"
+       y1="33.443371"
+       x2="27.540964"
+       y2="33.443371" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5424"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8296171,0,0,1.7334756,-36.479663,146.59776)"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient5466"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,62.254694,87.302643)"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient5468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,33.819035,61.005239)"
+       x1="-23.259035"
+       y1="33.443371"
+       x2="27.540964"
+       y2="33.443371" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5470"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8296171,0,0,1.7334756,-105.85918,82.585711)"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient5472"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64908566,0,0,0.65066838,-18.141359,89.209103)"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5474"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4983788,0,0,1.419643,-21.4376,84.505384)"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5486"
+       id="linearGradient5488"
+       x1="93.189156"
+       y1="-10.536146"
+       x2="93.189156"
+       y2="-61.336143"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4938"
+       id="linearGradient5516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,61.666844,151.31468)"
+       x1="-53.873491"
+       y1="6.1168704"
+       x2="-0.95682335"
+       y2="6.1168704" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient5518"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95999995,0,0,0.9623408,33.231186,125.01728)"
+       x1="-23.259035"
+       y1="33.443371"
+       x2="27.540964"
+       y2="33.443371" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="radialGradient5520"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8296171,0,0,1.7334756,-105.27133,146.59775)"
+       cx="50.142166"
+       cy="6.1168704"
+       fx="50.142166"
+       fy="6.1168704"
+       r="20.628916" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5723">
+      <path
+         style="opacity:0.73999999;fill:#818181;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 342.32535,-467.70372 v 137.96417 h 188.85514 v -137.96417 z m 95.62053,34.87126 c 9.52521,0 19.05037,0.52139 20.8566,1.56424 3.61249,2.08566 20.85662,31.95358 20.85662,36.12492 0,4.17134 -17.24413,34.03925 -20.85662,36.12494 -3.61247,2.08565 -38.10072,2.08565 -41.71321,0 -3.61248,-2.08569 -20.85713,-31.9536 -20.85713,-36.12494 0,-4.17134 17.24465,-34.03926 20.85713,-36.12492 1.80623,-1.04285 11.33139,-1.56424 20.85661,-1.56424 z"
+         id="path5725"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5903"
+       x="-0.057105762"
+       width="1.1142115"
+       y="-0.063203272"
+       height="1.1264065">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9850612"
+         id="feGaussianBlur5905" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3327336"
+     inkscape:cx="409.10641"
+     inkscape:cy="1350.5287"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="-131.89479,150.28334"
+       orientation="0,1"
+       id="guide5676"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-267.22916,127.26459"
+       orientation="0,1"
+       id="guide4737"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-230.79331,41.539585"
+       orientation="0,1"
+       id="guide4775"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:7.13043928;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4926"
+       width="511.57227"
+       height="529.19531"
+       x="-2.367492"
+       y="-454.86102" />
+    <circle
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.51190472;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle4874"
+       cx="-213.52109"
+       cy="41.392109"
+       r="15.119048" />
+    <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -49.902407,92.852106 -14.283883,8.224834 v 23.84455 l 20.705196,11.92227 20.705713,-11.92227 v -23.84455 l -14.2844,-8.224834 z"
+       id="path5698"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5704"
+       sodipodi:sides="6"
+       sodipodi:cx="-146.12141"
+       sodipodi:cy="117.9469"
+       sodipodi:r1="24.014631"
+       sodipodi:r2="20.797283"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:transform-center-y="-7.5807109e-06"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,273.99541,91.348055)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5706"
+       width="132.29167"
+       height="56.245918"
+       x="-43.481094"
+       y="90.470741"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       y="102.49687"
+       x="-66.615005"
+       height="44.21978"
+       width="132.27931"
+       id="rect4618"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4620"
+       d="m 95.761058,144.28698 14.283882,-8.22483 v -23.84456 l -20.705193,-11.92227 -20.705713,11.92227 -2e-6,23.84456 14.284398,8.22483 z"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:transform-center-x="14.780004"
+       inkscape:transform-center-y="11.247489" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4622"
+       width="162.98532"
+       height="44.03788"
+       x="-50.508457"
+       y="90.423187"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:#dbdbdb;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5660"
+       sodipodi:sides="6"
+       sodipodi:cx="-146.12141"
+       sodipodi:cy="117.9469"
+       sodipodi:r1="24.014631"
+       sodipodi:r2="20.797283"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:transform-center-y="-7.5807109e-06"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,52.803635,93.99389)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,52.803635,92.406389)"
+       inkscape:transform-center-y="-7.5807109e-06"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="20.797283"
+       sodipodi:r1="24.014631"
+       sodipodi:cy="117.9469"
+       sodipodi:cx="-146.12141"
+       sodipodi:sides="6"
+       id="path5656"
+       style="opacity:1;fill:#00f6ff;fill-opacity:1;stroke:#00f6ff;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+       id="path4506"
+       sodipodi:sides="6"
+       sodipodi:cx="-146.12141"
+       sodipodi:cy="117.9469"
+       sodipodi:r1="24.014631"
+       sodipodi:r2="20.797283"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:transform-center-y="-7.5807109e-06"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,52.803635,92.406389)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:2.42317009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m -103.42598,65.72459 v 23.8125 l 10.311439,-5.95312 V 71.67772 Z"
+       id="path4524"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_right_end.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4536"
+       width="13.229167"
+       height="13.229167"
+       x="-179.2552"
+       y="61.917698" />
+    <path
+       id="path4538"
+       d="m -103.42598,89.53709 v -23.8125 l -10.31151,5.95312 v 11.90625 z"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:2.42317009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#47b6ba;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4550"
+       width="13.229167"
+       height="13.229167"
+       x="-152.79686"
+       y="61.917698" />
+    <rect
+       y="61.917698"
+       x="-139.56769"
+       height="13.229167"
+       width="13.229167"
+       id="rect4582"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       y="61.917698"
+       x="-166.02603"
+       height="13.229167"
+       width="13.229167"
+       id="rect4584"
+       style="opacity:1;fill:#00f6ff;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#00f6ff;fill-opacity:0.97609564;stroke:none;stroke-width:5.52371025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5316)"
+       id="path4586"
+       sodipodi:sides="3"
+       sodipodi:cx="-77.731972"
+       sodipodi:cy="79.277428"
+       sodipodi:r1="10.665375"
+       sodipodi:r2="5.3326874"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m -67.066597,79.277428 c 0,1.847297 -14.398256,10.160134 -15.998062,9.236485 -1.599806,-0.923648 -1.599806,-17.549322 0,-18.472971 1.599806,-0.923648 15.998062,7.389189 15.998062,9.236486 z"
+       inkscape:transform-center-x="-2.7709722"
+       inkscape:transform-center-y="-2.5323984e-06"
+       transform="matrix(1.0392412,0,0,1.0392412,8.7847824,-6.050879)" />
+    <path
+       inkscape:transform-center-y="-1.047246e-06"
+       inkscape:transform-center-x="-2.5543358"
+       d="m -61.612253,76.337486 c 0,1.769695 -13.793405,9.733321 -15.326005,8.848473 -1.532601,-0.884847 -1.532601,-16.812099 0,-17.696946 1.5326,-0.884847 15.326005,7.078779 15.326005,8.848473 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="5.1086683"
+       sodipodi:r1="10.217337"
+       sodipodi:cy="76.33749"
+       sodipodi:cx="-71.829589"
+       sodipodi:sides="3"
+       id="path4554"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#818181;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <circle
+       r="13.229167"
+       cy="121.28465"
+       cx="-131.89479"
+       id="circle5648"
+       style="opacity:0.73500001;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46666667;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       transform="matrix(1.0392412,0,0,1.0392412,-51.14336,38.89628)"
+       inkscape:transform-center-y="-2.5323984e-06"
+       inkscape:transform-center-x="-2.7709722"
+       d="m -67.066597,79.277428 c 0,1.847297 -14.398256,10.160134 -15.998062,9.236485 -1.599806,-0.923648 -1.599806,-17.549322 0,-18.472971 1.599806,-0.923648 15.998062,7.389189 15.998062,9.236486 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="5.3326874"
+       sodipodi:r1="10.665375"
+       sodipodi:cy="79.277428"
+       sodipodi:cx="-77.731972"
+       sodipodi:sides="3"
+       id="path5650"
+       style="opacity:1;fill:#00f6ff;fill-opacity:0.97609564;stroke:none;stroke-width:5.52371025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5316)"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#818181;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5652"
+       sodipodi:sides="3"
+       sodipodi:cx="-131.75775"
+       sodipodi:cy="121.28465"
+       sodipodi:r1="10.217337"
+       sodipodi:r2="5.1086683"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m -121.54041,121.28465 c 0,1.7697 -13.79341,9.73332 -15.32601,8.84848 -1.5326,-0.88485 -1.5326,-16.8121 0,-17.69695 1.5326,-0.88485 15.32601,7.07878 15.32601,8.84847 z"
+       inkscape:transform-center-x="-2.5543358"
+       inkscape:transform-center-y="-1.047246e-06"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,-2.8911568,93.99389)"
+       inkscape:transform-center-y="-7.5807109e-06"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="20.797283"
+       sodipodi:r1="24.014631"
+       sodipodi:cy="117.9469"
+       sodipodi:cx="-146.12141"
+       sodipodi:sides="6"
+       id="path5678"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       sodipodi:type="star"
+       style="opacity:1;fill:#00f6ff;fill-opacity:1;stroke:#00f6ff;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00398406;paint-order:normal"
+       id="path5680"
+       sodipodi:sides="6"
+       sodipodi:cx="-146.12141"
+       sodipodi:cy="117.9469"
+       sodipodi:r1="24.014631"
+       sodipodi:r2="20.797283"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:transform-center-y="-7.5807109e-06"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,-2.8911568,92.406389)" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       transform="matrix(0.86219809,0.4964578,-0.49779029,0.85989014,-2.8911568,93.99389)"
+       inkscape:transform-center-y="-7.5807109e-06"
+       d="m -158.12873,97.149619 24.01463,0 12.00732,20.797281 -12.00732,20.79728 -24.01463,0 -12.00732,-20.79728 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="20.797283"
+       sodipodi:r1="24.014631"
+       sodipodi:cy="117.9469"
+       sodipodi:cx="-146.12141"
+       sodipodi:sides="6"
+       id="path5682"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:4.88747835;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+       sodipodi:type="star" />
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       style="opacity:0.73500001;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46666667;paint-order:normal"
+       id="circle5684"
+       cx="-187.58958"
+       cy="122.87215"
+       r="13.229167" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       sodipodi:type="star"
+       style="opacity:1;fill:#00f6ff;fill-opacity:0.97609564;stroke:none;stroke-width:5.52371025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5316)"
+       id="path5686"
+       sodipodi:sides="3"
+       sodipodi:cx="-77.731972"
+       sodipodi:cy="79.277428"
+       sodipodi:r1="10.665375"
+       sodipodi:r2="5.3326874"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m -67.066597,79.277428 c 0,1.847297 -14.398256,10.160134 -15.998062,9.236485 -1.599806,-0.923648 -1.599806,-17.549322 0,-18.472971 1.599806,-0.923648 15.998062,7.389189 15.998062,9.236486 z"
+       inkscape:transform-center-x="-2.7709722"
+       inkscape:transform-center-y="-2.5323984e-06"
+       transform="matrix(1.0392412,0,0,1.0392412,-106.83815,40.483781)" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:transform-center-y="-1.047246e-06"
+       inkscape:transform-center-x="-2.5543358"
+       d="m -177.23521,122.87215 c 0,1.76969 -13.7934,9.73332 -15.326,8.84847 -1.5326,-0.88485 -1.5326,-16.8121 0,-17.69695 1.5326,-0.88484 15.326,7.07878 15.326,8.84848 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="5.1086683"
+       sodipodi:r1="10.217337"
+       sodipodi:cy="122.87215"
+       sodipodi:cx="-187.45255"
+       sodipodi:sides="3"
+       id="path5688"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#818181;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <rect
+       y="61.917698"
+       x="-192.48438"
+       height="13.229167"
+       width="13.229167"
+       id="rect5700"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_color.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.47808766;stroke:none;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:453.54331281, 453.54331280999997489;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+       d="M -768.2072 691.06818 L -768.2072 640.53888 C -768.2072 637.21488 -767.3152 634.53888 -766.2072 634.53888 L -766.2072 634.53888 L -555.20721 634.53888 C -554.09921 634.53888 -553.20721 637.21488 -553.20721 640.53888 L -553.2072 691.06816 "
+       id="path4695"
+       transform="scale(0.26458333)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.47808766;stroke:none;stroke-width:18.89763832;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:453.54331281, 453.54331280999997489;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+       d="M -553.20721 857.52521 L -553.20721 954.53888 C -553.20721 957.86288 -554.09921 960.53888 -555.20721 960.53888 L -766.2072 960.53888 C -767.3152 960.53888 -768.2072 957.86288 -768.2072 954.53888 L -768.2072 857.52521 "
+       id="path4691"
+       transform="scale(0.26458333)" />
+    <g
+       id="g4712"
+       transform="translate(84.953073,-13.108149)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_left_slim.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+         id="path4706"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+         id="rect4708"
+         width="15.345832"
+         height="64.822914"
+         x="-238.99539"
+         y="182.84355" />
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+         id="rect4710"
+         width="26.816769"
+         height="42.291618"
+         x="-258.13922"
+         y="205.37488" />
+    </g>
+    <g
+       id="g4735"
+       transform="translate(-6.8791667,-13.108149)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_left_wide.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4704">
+        <path
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+           id="path4652"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+           id="rect4697"
+           width="15.345832"
+           height="64.822914"
+           x="-238.99539"
+           y="182.84355" />
+        <rect
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+           id="rect4699"
+           width="26.816769"
+           height="42.291618"
+           x="-258.13922"
+           y="205.37488" />
+      </g>
+      <rect
+         y="182.84355"
+         x="-223.64957"
+         height="64.822914"
+         width="34.395832"
+         id="rect4718"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4727"
+         width="34.395832"
+         height="64.822914"
+         x="-239.52458"
+         y="182.84355" />
+    </g>
+    <g
+       transform="rotate(180,-129.3619,251.56344)"
+       id="g4745"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_1000.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4739"
+         d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         y="182.84355"
+         x="-238.99539"
+         height="64.822914"
+         width="15.345832"
+         id="rect4741"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+      <rect
+         y="205.37488"
+         x="-258.13922"
+         height="42.291618"
+         width="26.816769"
+         id="rect4743"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+    </g>
+    <g
+       transform="rotate(180,-130.56338,208.70094)"
+       id="g4759"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_right_wide.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4753">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4747"
+           d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <rect
+           y="182.84355"
+           x="-238.99539"
+           height="64.822914"
+           width="15.345832"
+           id="rect4749"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+        <rect
+           y="205.37488"
+           x="-258.13922"
+           height="42.291618"
+           width="26.816769"
+           id="rect4751"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+      </g>
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4755"
+         width="34.395832"
+         height="64.822914"
+         x="-223.64957"
+         y="182.84355" />
+      <rect
+         y="182.84355"
+         x="-239.52458"
+         height="64.822914"
+         width="34.395832"
+         id="rect4757"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_1000.png"
+       transform="translate(-7.1437433,72.616856)"
+       id="g4773">
+      <g
+         id="g4767">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4761"
+           d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <rect
+           y="182.84355"
+           x="-238.99539"
+           height="64.822914"
+           width="15.345832"
+           id="rect4763"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+        <rect
+           y="205.37488"
+           x="-258.13922"
+           height="42.291618"
+           width="26.816769"
+           id="rect4765"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal" />
+      </g>
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect4769"
+         width="34.395832"
+         height="64.822914"
+         x="-223.64957"
+         y="182.84355" />
+      <rect
+         y="182.84355"
+         x="-239.52458"
+         height="64.822914"
+         width="34.395832"
+         id="rect4771"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.6373384;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:63.29612215, 63.29612215;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.36887503;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:128.85300794, 128.85300794;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4777"
+       width="177.46291"
+       height="64.822922"
+       x="-210.15585"
+       y="255.4604"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_1000.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_right_slim.png"
+       id="g4785"
+       transform="rotate(180,-172.2244,208.70095)">
+      <path
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.85936165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m -235.00483,185.27391 h -6.42131 v 0 l -14.28388,8.22483 v 23.84455 l 20.70519,11.92227"
+         id="path4779"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.56727648;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:61.614637, 61.614637;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+         id="rect4781"
+         width="15.345832"
+         height="64.822914"
+         x="-238.99539"
+         y="182.84355" />
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:5.24597692;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:125.9034351, 125.9034351;stroke-dashoffset:0;stroke-opacity:0.46613548;paint-order:normal"
+         id="rect4783"
+         width="26.816769"
+         height="42.291618"
+         x="-258.13922"
+         y="205.37488" />
+    </g>
+    <circle
+       r="13.229167"
+       cy="11.356225"
+       cx="-114.17841"
+       id="circle4787"
+       style="opacity:1;fill:url(#linearGradient4872);fill-opacity:1;stroke:#46b6bb;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:url(#linearGradient4862);fill-opacity:1;stroke:#818181;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path4842"
+       sodipodi:sides="3"
+       sodipodi:cx="-181.87014"
+       sodipodi:cy="12.902486"
+       sodipodi:r1="10.217337"
+       sodipodi:r2="5.1086683"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m -171.6528,12.902486 c 0,1.769694 -13.7934,9.73332 -15.326,8.848473 -1.5326,-0.884847 -1.5326,-16.8120989 0,-17.6969463 1.5326,-0.8848473 15.326,7.0787783 15.326,8.8484733 z"
+       inkscape:transform-center-x="-2.5543358"
+       inkscape:transform-center-y="-1.047246e-06" />
+    <ellipse
+       style="opacity:1;fill:url(#linearGradient4924);fill-opacity:1;stroke:none;stroke-width:1.71942532;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path4916"
+       cx="-33.505157"
+       cy="93.189156"
+       transform="rotate(-90)"
+       rx="24.383999"
+       ry="24.443457"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       transform="matrix(0,1.0080475,1.0105055,0,87.008024,5.8044993)"
+       cy="6.1168704"
+       cx="27.479515"
+       id="circle5538"
+       style="opacity:1;fill:#00f6ff;fill-opacity:1;stroke:none;stroke-width:1.49074054;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5374)"
+       r="21.166666" />
+    <circle
+       transform="rotate(-90)"
+       cy="93.189156"
+       cx="-33.443371"
+       id="circle4932"
+       style="opacity:0.1;fill:url(#linearGradient4940);fill-opacity:1;stroke:none;stroke-width:1.78888845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       r="25.4"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       transform="matrix(0,1,1,0,0,0)"
+       cy="93.189156"
+       cx="33.505157"
+       id="circle5378"
+       style="opacity:1;fill:url(#radialGradient5382);fill-opacity:1;stroke:none;stroke-width:1.39645195;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       rx="19.803759"
+       ry="19.852047"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:0.73500001;fill:#818181;fill-opacity:1;stroke:#00f6ff;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.46666667;paint-order:normal"
+       id="path4556"
+       cx="-79.588089"
+       cy="34.5905"
+       r="13.229167" />
+    <circle
+       style="opacity:0.1;fill:url(#linearGradient5400);fill-opacity:1;stroke:none;stroke-width:1.20952272;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse5398"
+       cx="33.443371"
+       cy="93.189156"
+       transform="matrix(0,1,1,0,0,0)"
+       r="17.173725"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient5392);fill-opacity:1;stroke:none;stroke-width:1.14363515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle5390"
+       cx="-33.502522"
+       cy="93.189156"
+       transform="rotate(-90)"
+       rx="16.218439"
+       ry="16.257986"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="25.4"
+       style="opacity:0.1;fill:url(#linearGradient5420);fill-opacity:1;stroke:none;stroke-width:1.78888845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle5406"
+       cx="-33.443371"
+       cy="157.2012"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="24.443457"
+       rx="24.383999"
+       transform="rotate(-90)"
+       cy="157.2012"
+       cx="-33.505157"
+       id="ellipse5408"
+       style="opacity:1;fill:url(#linearGradient5422);fill-opacity:1;stroke:none;stroke-width:1.71942532;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="21.166666"
+       style="opacity:1;fill:#00f6ff;fill-opacity:1;stroke:none;stroke-width:1.49074054;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5374)"
+       id="circle5410"
+       cx="27.479515"
+       cy="6.1168704"
+       transform="matrix(0,1.0080475,1.0105055,0,151.02007,5.8044993)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="19.852047"
+       rx="19.803759"
+       style="opacity:1;fill:url(#radialGradient5424);fill-opacity:1;stroke:none;stroke-width:1.39645195;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse5412"
+       cx="33.505157"
+       cy="157.2012"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-x="-2.893221"
+       d="m 168.23774,33.505157 -17.35933,10.022412 0,-20.044823 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="5.7864423"
+       sodipodi:r1="11.572884"
+       sodipodi:cy="33.505157"
+       sodipodi:cx="156.66486"
+       sodipodi:sides="3"
+       id="path5436"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#333333;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background_color.png"
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5438"
+       width="13.229167"
+       height="13.229167"
+       x="-205.71355"
+       y="61.917698" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#333333;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5440"
+       sodipodi:sides="3"
+       sodipodi:cx="92.106522"
+       sodipodi:cy="33.505157"
+       sodipodi:r1="11.572884"
+       sodipodi:r2="5.7864423"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 103.67941,33.505157 -17.35933,10.022412 0,-20.044823 z"
+       inkscape:transform-center-x="-2.893221"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="24.443457"
+       rx="24.383999"
+       transform="rotate(-90)"
+       cy="93.189156"
+       cx="35.874359"
+       id="ellipse5444"
+       style="opacity:1;fill:url(#linearGradient5468);fill-opacity:1;stroke:none;stroke-width:1.71942532;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="25.4"
+       style="opacity:0.1;fill:url(#linearGradient5466);fill-opacity:1;stroke:none;stroke-width:1.78888845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="circle5442"
+       cx="35.936146"
+       cy="93.189156"
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="21.166666"
+       style="opacity:1;fill:#47b6ba;fill-opacity:1;stroke:none;stroke-width:1.49074054;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5374)"
+       id="circle5540"
+       cx="27.479515"
+       cy="6.1168704"
+       transform="matrix(0,0.95123885,0.95355834,0,87.356362,-62.075729)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="19.852047"
+       rx="19.803759"
+       style="opacity:1;fill:url(#radialGradient5470);fill-opacity:1;stroke:none;stroke-width:1.39645195;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse5448"
+       cx="-35.874359"
+       cy="93.189156"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       r="17.173725"
+       transform="matrix(0,1,1,0,0,0)"
+       cy="93.189156"
+       cx="-35.936146"
+       id="circle5450"
+       style="opacity:0.1;fill:url(#linearGradient5472);fill-opacity:1;stroke:none;stroke-width:1.20952272;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       ry="16.257986"
+       rx="16.218439"
+       transform="rotate(-90)"
+       cy="93.189156"
+       cx="35.876995"
+       id="ellipse5452"
+       style="opacity:1;fill:url(#radialGradient5474);fill-opacity:1;stroke:none;stroke-width:1.14363515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-x="-2.893221"
+       d="M 103.67941,-35.874359 86.32008,-25.851948 V -45.89677 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.0471976"
+       sodipodi:arg1="0"
+       sodipodi:r2="5.7864423"
+       sodipodi:r1="11.572884"
+       sodipodi:cy="-35.874359"
+       sodipodi:cx="92.106522"
+       sodipodi:sides="3"
+       id="path5464"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient5488);stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       transform="rotate(-90)"
+       cy="157.20119"
+       cx="35.348297"
+       id="circle5506"
+       style="opacity:0.1;fill:url(#linearGradient5516);fill-opacity:1;stroke:none;stroke-width:1.78888845;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       r="25.4" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       style="opacity:1;fill:url(#linearGradient5518);fill-opacity:1;stroke:none;stroke-width:1.71942532;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse5508"
+       cx="35.28651"
+       cy="157.20119"
+       transform="rotate(-90)"
+       rx="24.383999"
+       ry="24.443457" />
+    <circle
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       transform="matrix(0,0.95123885,0.95355834,0,151.3684,-61.426093)"
+       cy="6.1168704"
+       cx="27.479515"
+       id="circle5510"
+       style="opacity:1;fill:#47b6ba;fill-opacity:1;stroke:none;stroke-width:1.49074054;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5374)"
+       r="21.166666" />
+    <ellipse
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       transform="matrix(0,1,1,0,0,0)"
+       cy="157.20119"
+       cx="-35.28651"
+       id="ellipse5512"
+       style="opacity:1;fill:url(#radialGradient5520);fill-opacity:1;stroke:none;stroke-width:1.39645195;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       rx="19.803759"
+       ry="19.852047" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/play_button_pressed.png"
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00f6ff;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5514"
+       sodipodi:sides="3"
+       sodipodi:cx="156.66486"
+       sodipodi:cy="-35.286507"
+       sodipodi:r1="11.572884"
+       sodipodi:r2="5.7864423"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 168.23774,-35.286507 -17.35933,10.022412 v -20.044823 z"
+       inkscape:transform-center-x="-2.893221" />
+    <rect
+       y="-449.63086"
+       x="210.07401"
+       height="508"
+       width="285.75"
+       id="rect5542"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:5.22131348;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:transform-center-y="-8.430323e-06"
+       inkscape:transform-center-x="3.7372559e-06"
+       d="m 417.08906,-433.91399 c 3.61248,-2.08566 38.10088,-2.08566 41.71336,0 3.61248,2.08567 20.85668,31.9535 20.85668,36.12484 0,4.17133 -17.2442,34.03916 -20.85668,36.12483 -3.61248,2.08567 -38.10088,2.08567 -41.71336,0 -3.61249,-2.08567 -20.85668,-31.9535 -20.85668,-36.12483 0,-4.17134 17.24419,-34.03917 20.85668,-36.12484 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="36.124832"
+       sodipodi:r1="41.713364"
+       sodipodi:cy="-397.78915"
+       sodipodi:cx="437.94574"
+       sodipodi:sides="6"
+       id="path5645"
+       style="opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5903)"
+       sodipodi:type="star"
+       clip-path="url(#clipPath5723)"
+       transform="matrix(1,0,0,-1,-158.04215,-625.34812)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:4.83772945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path5638"
+       sodipodi:sides="6"
+       sodipodi:cx="279.9036"
+       sodipodi:cy="-230.20482"
+       sodipodi:r1="38.135052"
+       sodipodi:r2="33.025921"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 260.83607,-263.23074 c 3.30259,-1.90675 34.83246,-1.90675 38.13505,0 3.30259,1.90675 19.06753,29.21242 19.06753,33.02592 0,3.81351 -15.76494,31.11917 -19.06753,33.02592 -3.30259,1.90676 -34.83246,1.90676 -38.13505,0 -3.30259,-1.90675 -19.06753,-29.21241 -19.06753,-33.02592 0,-3.8135 15.76494,-31.11917 19.06753,-33.02592 z"
+       inkscape:transform-center-x="3.4166615e-06"
+       inkscape:transform-center-y="6.254986e-06" />
+    <path
+       transform="matrix(1,0,0,-1,-158.04215,-535.38973)"
+       clip-path="url(#clipPath5723)"
+       sodipodi:type="star"
+       style="opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5903)"
+       id="path5915"
+       sodipodi:sides="6"
+       sodipodi:cx="437.94574"
+       sodipodi:cy="-397.78915"
+       sodipodi:r1="41.713364"
+       sodipodi:r2="36.124832"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 417.08906,-433.91399 c 3.61248,-2.08566 38.10088,-2.08566 41.71336,0 3.61248,2.08567 20.85668,31.9535 20.85668,36.12484 0,4.17133 -17.2442,34.03916 -20.85668,36.12483 -3.61248,2.08567 -38.10088,2.08567 -41.71336,0 -3.61249,-2.08567 -20.85668,-31.9535 -20.85668,-36.12483 0,-4.17134 17.24419,-34.03917 20.85668,-36.12484 z"
+       inkscape:transform-center-x="3.7372559e-06"
+       inkscape:transform-center-y="-8.430323e-06" />
+    <path
+       inkscape:transform-center-y="6.254986e-06"
+       inkscape:transform-center-x="3.4166615e-06"
+       d="m 260.83607,-173.2724 c 3.30259,-1.90675 34.83246,-1.90675 38.13505,0 3.30259,1.90675 19.06753,29.21242 19.06753,33.02592 0,3.81351 -15.76494,31.11918 -19.06753,33.02593 -3.30259,1.90675 -34.83246,1.90675 -38.13505,0 -3.30259,-1.90675 -19.06753,-29.21242 -19.06753,-33.02593 0,-3.8135 15.76494,-31.11917 19.06753,-33.02592 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="33.025921"
+       sodipodi:r1="38.135052"
+       sodipodi:cy="-140.24648"
+       sodipodi:cx="279.90359"
+       sodipodi:sides="6"
+       id="path5917"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:4.83772945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       transform="matrix(1,0,0,-1,-158.04215,-445.43134)"
+       clip-path="url(#clipPath5723)"
+       sodipodi:type="star"
+       style="opacity:0.8;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5903)"
+       id="path5919"
+       sodipodi:sides="6"
+       sodipodi:cx="437.94574"
+       sodipodi:cy="-397.78915"
+       sodipodi:r1="41.713364"
+       sodipodi:r2="36.124832"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 417.08906,-433.91399 c 3.61248,-2.08566 38.10088,-2.08566 41.71336,0 3.61248,2.08567 20.85668,31.9535 20.85668,36.12484 0,4.17133 -17.2442,34.03916 -20.85668,36.12483 -3.61248,2.08567 -38.10088,2.08567 -41.71336,0 -3.61249,-2.08567 -20.85668,-31.9535 -20.85668,-36.12483 0,-4.17134 17.24419,-34.03917 20.85668,-36.12484 z"
+       inkscape:transform-center-x="3.7372559e-06"
+       inkscape:transform-center-y="-8.430323e-06" />
+    <path
+       inkscape:transform-center-y="6.254986e-06"
+       inkscape:transform-center-x="3.4166615e-06"
+       d="m 260.83607,-83.31409 c 3.30259,-1.906752 34.83246,-1.906752 38.13505,0 3.30259,1.906753 19.06753,29.212419 19.06753,33.025924 0,3.813505 -15.76494,31.119171 -19.06753,33.025924 -3.30259,1.906752 -34.83246,1.906752 -38.13505,-1e-6 -3.30259,-1.906752 -19.06753,-29.212418 -19.06753,-33.025923 0,-3.813505 15.76494,-31.119171 19.06753,-33.025924 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="33.025921"
+       sodipodi:r1="38.135052"
+       sodipodi:cy="-50.288167"
+       sodipodi:cx="279.90359"
+       sodipodi:sides="6"
+       id="path5921"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:4.83772945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star" />
+    <path
+       transform="matrix(1,0,0,-1,214.10242,-622.96258)"
+       clip-path="url(#clipPath5723)"
+       sodipodi:type="star"
+       style="opacity:0.8;fill:#818181;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter5903)"
+       id="path5923"
+       sodipodi:sides="6"
+       sodipodi:cx="437.94574"
+       sodipodi:cy="-397.78915"
+       sodipodi:r1="41.713364"
+       sodipodi:r2="36.124832"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 417.08906,-433.91399 c 3.61248,-2.08566 38.10088,-2.08566 41.71336,0 3.61248,2.08567 20.85668,31.9535 20.85668,36.12484 0,4.17133 -17.2442,34.03916 -20.85668,36.12483 -3.61248,2.08567 -38.10088,2.08567 -41.71336,0 -3.61249,-2.08567 -20.85668,-31.9535 -20.85668,-36.12483 0,-4.17134 17.24419,-34.03917 20.85668,-36.12484 z"
+       inkscape:transform-center-x="3.7372559e-06"
+       inkscape:transform-center-y="-8.430323e-06"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:transform-center-y="6.254986e-06"
+       inkscape:transform-center-x="3.4166615e-06"
+       d="m 632.98063,-260.8452 c 3.30259,-1.90675 34.83246,-1.90675 38.13505,0 3.3026,1.90675 19.06753,29.21242 19.06753,33.02593 0,3.8135 -15.76494,31.11917 -19.06753,33.02592 -3.30259,1.90675 -34.83246,1.90675 -38.13505,0 -3.30259,-1.90675 -19.06752,-29.21242 -19.06752,-33.02592 0,-3.81351 15.76493,-31.11918 19.06752,-33.02593 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0.1"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-1.5707963"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:r2="33.025921"
+       sodipodi:r1="38.135052"
+       sodipodi:cy="-227.81928"
+       sodipodi:cx="652.04816"
+       sodipodi:sides="6"
+       id="path5925"
+       style="opacity:1;fill:#818181;fill-opacity:1;stroke:none;stroke-width:4.83772945;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/dbdev42/Projects/p0001/godot/art/button_background.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

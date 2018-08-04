@@ -1,0 +1,51 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://scenes/LevelItem.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scripts/Player.gd" type="Script" id=2]
+[ext_resource path="res://art/ship_body.png" type="Texture" id=3]
+
+[node name="Player" groups=[
+"player",
+] instance=ExtResource( 1 )]
+
+script = ExtResource( 2 )
+speed = 500
+direction = Vector2( 0, 0 )
+mouse_pos_threshold = 20
+
+[node name="Sprite" parent="." index="0"]
+
+texture = ExtResource( 3 )
+
+[node name="Area" parent="." index="1"]
+
+_sections_unfolded = [ "Transform", "Z Index" ]
+
+[node name="CollisionArea" parent="Area" index="0"]
+
+polygon = PoolVector2Array( 18.2354, -65.0974, 37.7372, -65.0974, 75.3138, 26.9416, 37.2615, 64.2805, -37.4161, 64.2805, -75.2306, 26.9416, -37.654, -66.0487, -17.9143, -66.0487, -7.44994, -11.8242, 7.53316, -11.3485 )
+
+[node name="RightWeapon" type="Position2D" parent="." index="3" groups=[
+"weapon",
+]]
+
+position = Vector2( 27, -67 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="LeftWeapon" type="Position2D" parent="." index="4" groups=[
+"weapon",
+]]
+
+position = Vector2( -27, -67 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="WeaponReload" type="Timer" parent="." index="5"]
+
+process_mode = 1
+wait_time = 1.0
+one_shot = true
+autostart = false
+
+[connection signal="timeout" from="WeaponReload" to="." method="_on_WeaponReload_timeout"]
+
+

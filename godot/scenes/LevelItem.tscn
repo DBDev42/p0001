@@ -1,0 +1,36 @@
+[gd_scene format=2]
+
+[node name="LevelItem" type="Node2D"]
+
+z_as_relative = false
+_sections_unfolded = [ "Material", "Transform", "Z Index" ]
+
+[node name="Sprite" type="Sprite" parent="." index="0"]
+
+z_index = -1
+_sections_unfolded = [ "Transform", "Z Index" ]
+
+[node name="Area" type="Area2D" parent="." index="1"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="CollisionArea" type="CollisionPolygon2D" parent="Area" index="0"]
+
+build_mode = 0
+polygon = PoolVector2Array(  )
+
+[node name="Visibility" type="VisibilityNotifier2D" parent="." index="2"]
+
+rect = Rect2( -100, -100, 200, 200 )
+
+[connection signal="area_entered" from="Area" to="." method="_on_Area_area_entered"]
+
+[connection signal="screen_exited" from="Visibility" to="." method="_on_Visibility_screen_exited"]
+
+

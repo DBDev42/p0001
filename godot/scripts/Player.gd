@@ -2,7 +2,7 @@ extends "res://scripts/LevelItem.gd"
 
 signal shoot(item)
 
-export var mouse_pos_threshold = 20
+export var input_pos_threshold = 20
 
 var connected = false
 var weapons_ready = true
@@ -15,13 +15,13 @@ func init(controller, initial_pos):
 
 func update(delta):
 	direction.x = 0
-	var mouse_pos = get_local_mouse_position()
-	if mouse_pos.x < mouse_pos_threshold*-1 :
+	var input_pos = Adapter.get_input_x_position()
+	if input_pos < get_position().x + input_pos_threshold*-1 :
 		direction.x = -1
-	elif mouse_pos.x > mouse_pos_threshold :
+	elif input_pos > get_position().x + input_pos_threshold :
 		direction.x = 1
 	.update(delta)
-	if Input.is_mouse_button_pressed(1):
+	if Adapter.is_action_pressed():
 		shoot()
 
 func shoot() :

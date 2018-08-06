@@ -31,6 +31,8 @@ rect = Rect2( -100, -100, 200, 200 )
 
 [connection signal="area_entered" from="Area" to="." method="_on_Area_area_entered"]
 
+[connection signal="screen_entered" from="Visibility" to="." method="_on_Visibility_screen_entered"]
+
 [connection signal="screen_exited" from="Visibility" to="." method="_on_Visibility_screen_exited"]
 
 

@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://scenes/LevelItem.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scripts/BasicEnemy.gd" type="Script" id=2]
+[ext_resource path="res://art/enemy_basic_body.png" type="Texture" id=3]
+
+[node name="BasicEnemy" groups=[
+"enemy",
+] instance=ExtResource( 1 )]
+
+script = ExtResource( 2 )
+speed = 200
+direction = Vector2( 0, 1 )
+margin = 100
+
+[node name="Sprite" parent="." index="0"]
+
+z_index = -2
+z_as_relative = false
+texture = ExtResource( 3 )
+
+[node name="Area" parent="." index="1"]
+
+_sections_unfolded = [ "Z Index" ]
+
+[node name="CollisionArea" parent="Area" index="0"]
+
+polygon = PoolVector2Array( 60.3738, -58.7739, 60.3738, 59.1802, -60.6612, 59.1802, -60.2211, -58.7739 )
+
+

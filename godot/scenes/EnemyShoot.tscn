@@ -1,0 +1,31 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://scenes/LevelItem.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scripts/EnemyShoot.gd" type="Script" id=2]
+[ext_resource path="res://art/enemy_shoot.png" type="Texture" id=3]
+
+[node name="EnemyShoot" index="0" groups=[
+"enemy",
+"shoot",
+] instance=ExtResource( 1 )]
+
+script = ExtResource( 2 )
+_sections_unfolded = [ "Material", "Pause", "Transform", "Z Index" ]
+speed = 800
+direction = Vector2( 0, 0 )
+margin = 100
+
+[node name="Sprite" parent="." index="0"]
+
+z_index = -2
+texture = ExtResource( 3 )
+
+[node name="Area" parent="." index="1"]
+
+_sections_unfolded = [ "Z Index" ]
+
+[node name="CollisionArea" parent="Area" index="0"]
+
+polygon = PoolVector2Array( -0.114838, -38.1068, 6.75361, -30.1652, 8.47072, -16.2137, 7.61216, 10.6162, 4.39259, 32.9386, -3.33442, 32.9386, -6.76864, 11.2601, -8.48575, -16.4283, -6.33936, -31.2384 )
+
+

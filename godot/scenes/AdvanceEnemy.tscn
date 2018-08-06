@@ -1,0 +1,81 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://scenes/LevelItem.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scripts/AdvanceEnemy.gd" type="Script" id=2]
+[ext_resource path="res://art/enemy_advance_body.png" type="Texture" id=3]
+
+[sub_resource type="CircleShape2D" id=1]
+
+custom_solver_bias = 0.0
+radius = 396.71
+
+[node name="IntermediateEnemy" groups=[
+"enemy",
+] instance=ExtResource( 1 )]
+
+script = ExtResource( 2 )
+speed = 100
+direction = Vector2( 0, 1 )
+margin = 100
+
+[node name="Sprite" parent="." index="0"]
+
+z_index = -2
+z_as_relative = false
+texture = ExtResource( 3 )
+
+[node name="Area" parent="." index="1"]
+
+_sections_unfolded = [ "Z Index" ]
+
+[node name="CollisionArea" parent="Area" index="0"]
+
+polygon = PoolVector2Array( 68.8061, 59.991, -67.7431, 59.991, -1.41922, -60.9525 )
+
+[node name="Radar" type="Area2D" parent="." index="3"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Radar" index="0"]
+
+shape = SubResource( 1 )
+
+[node name="WeaponTop" type="Position2D" parent="." index="4" groups=[
+"weapon",
+]]
+
+position = Vector2( -0.487671, -65.3485 )
+_sections_unfolded = [ "Transform" ]
+
+[node name="WeaponRight" type="Position2D" parent="." index="5" groups=[
+"weapon",
+]]
+
+position = Vector2( 72.6637, 62.9102 )
+
+[node name="WeaponLeft" type="Position2D" parent="." index="6" groups=[
+"weapon",
+]]
+
+position = Vector2( -71.2006, 63.8855 )
+
+[node name="WeaponReload" type="Timer" parent="." index="7"]
+
+process_mode = 1
+wait_time = 2.0
+one_shot = false
+autostart = false
+
+[connection signal="area_entered" from="Radar" to="." method="_on_Radar_area_entered"]
+
+[connection signal="area_exited" from="Radar" to="." method="_on_Radar_area_exited"]
+
+[connection signal="timeout" from="WeaponReload" to="." method="_on_WeaponReload_timeout"]
+
+

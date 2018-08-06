@@ -1,0 +1,53 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://scenes/LevelItem.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scripts/IntermediateEnemy.gd" type="Script" id=2]
+[ext_resource path="res://art/enemy_intermediate_body.png" type="Texture" id=3]
+
+[sub_resource type="CircleShape2D" id=1]
+
+custom_solver_bias = 0.0
+radius = 262.392
+
+[node name="IntermediateEnemy" groups=[
+"enemy",
+] instance=ExtResource( 1 )]
+
+script = ExtResource( 2 )
+speed = 300
+direction = Vector2( 0, 1 )
+margin = 100
+
+[node name="Sprite" parent="." index="0"]
+
+z_index = -2
+z_as_relative = false
+texture = ExtResource( 3 )
+
+[node name="Area" parent="." index="1"]
+
+_sections_unfolded = [ "Z Index" ]
+
+[node name="CollisionArea" parent="Area" index="0"]
+
+polygon = PoolVector2Array( 44.5292, -53.0522, 65.6553, -23.1236, 68.7362, 5.04456, 59.0534, 39.8146, 30.005, 63.5815, -6.08542, 69.3031, -40.8555, 56.9796, -65.0625, 28.3713, -69.0236, -8.59938, -56.2599, -43.3694, -25.451, -64.9357, 11.5197, -68.8968 )
+
+[node name="Radar" type="Area2D" parent="." index="3"]
+
+input_pickable = true
+gravity_vec = Vector2( 0, 1 )
+gravity = 98.0
+linear_damp = 0.1
+angular_damp = 1.0
+audio_bus_override = false
+audio_bus_name = "Master"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Radar" index="0"]
+
+shape = SubResource( 1 )
+
+[connection signal="area_entered" from="Radar" to="." method="_on_Radar_area_entered"]
+
+[connection signal="area_exited" from="Radar" to="." method="_on_Radar_area_exited"]
+
+
